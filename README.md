@@ -1,5 +1,5 @@
 ## Olá! eu sou o Yan Pina.
-#### 🔭 Atualmente trabalhando com JS Full Stack:
+#### 🔭 Atualmente trabalhando com Python:
 - Back-End: NodeJs| Front-End: ReactJs, NextJs| Database: Postgresql, Firebase
  
 #### 🌱 Estudando mobile development com React Native.
